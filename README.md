@@ -4,7 +4,4 @@
 
 ## pwr.toya
 **Backend & Ciberseguridad**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,bash,linux,git,docker,postgres" alt="stack" />
-</p>
+Ing Sistemas 📲
