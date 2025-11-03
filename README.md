@@ -3,5 +3,3 @@
 </p>
 
 ## pwr.toya
-**Backend & Ciberseguridad**
-Ing Sistemas 📲
