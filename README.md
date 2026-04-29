@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWl4bjdkZXZoYXkwZGxqaTB4ZGt2Nzk5aWd2bm9ieHNkaDA4am95NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GD5xkDtFPUpY4/giphy.gif" alt="Hacker terminal loop" width="100%">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1uZ2kyZ3lmeDVhZ25uNGkxbHZ6bXFidjVkajNpbmhub2JhdXFtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iNPNqI81MvDQ4D4n6D/giphy.gif">
 </p>
 
 ## pwr.toya
